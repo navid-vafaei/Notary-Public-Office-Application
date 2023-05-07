@@ -66,7 +66,7 @@ This is one of the reports of the program:
 
 <br>
 <br>
-This is sorce code in one of the modules:
+And this is the sorce code, one of the modules:
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/11.png">
 </p>
