@@ -14,7 +14,6 @@ We can send document's prices to POS for payment by clicking "POS":
 </p>
 
 
-<br>
 -----
 Elements in this form are variable, based on documen's type:
 <p align="center" width="100%">
