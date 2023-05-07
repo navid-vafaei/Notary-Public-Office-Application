@@ -1,6 +1,5 @@
 # Notary Public Office Software
 
-<br>
 -----
 Main page:
 <p align="center" width="100%">
