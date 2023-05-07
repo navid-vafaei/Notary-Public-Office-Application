@@ -1,4 +1,6 @@
-# Notary-Public-Office-Application
-This is an image of source codes:![Image of one file](https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/01.png)
+# Notary Public Office Software
 
-This is an image of source codes:![Image of one file](https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/02.png)
+Main page:
+<p align="center" width="50%">
+    <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/01.png">
+</p>
