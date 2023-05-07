@@ -36,7 +36,7 @@ We can find persons that are forbidden to make a deal:
 
 <br>
 <br>
-Each form has a search textbox which can be applied to any elements of grid:
+Each form has a search textbox which can be applied to any elements of the grid:
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/06.png">
 </p>
@@ -52,18 +52,15 @@ This is the about form. You can see my name!
 
 <br>
 <br>
+We can calculate documet's prices and taxes:
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/08.png">
 </p>
 
 <br>
 <br>
+This is one of the reports of the program:
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/09.png">
 </p>
 
-<br>
-<br>
-<p align="center" width="100%">
-    <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/10.png">
-</p>
