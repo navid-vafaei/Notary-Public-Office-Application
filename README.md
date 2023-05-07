@@ -30,14 +30,24 @@ We can find persons that are forbidden to make a deal:
 
 
 -----
+Each form has a searh textbox which can be applied to any elements of grid:
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/06.png">
 </p>
 
+
+-----
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/07.png">
 </p>
 
+
+-----
+<br>
+<br>
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/07.png">
+</p>
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/08.png">
