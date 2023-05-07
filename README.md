@@ -1,5 +1,14 @@
 # Notary Public Office Software
 
+## Requirements
+Microsoft Visual studio 2015 or newer version.
+Download files and add then in a new a projects. Some files like modules can be seen in other applications, like notepad.
+
+## Tasks
+
+##Images
+
+
 -----
 Main page:
 <p align="center" width="100%">
