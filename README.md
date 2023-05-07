@@ -7,13 +7,13 @@ Main page:
 </p>
 
 
+-----
 We can send document's prices to POS for payment by clicking "POS":
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/02.png">
 </p>
 
 
-<br>
 <br>
 -----
 Elements in this form are variable, based on documen's type:
