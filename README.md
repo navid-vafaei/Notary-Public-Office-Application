@@ -7,7 +7,8 @@ Main page:
 </p>
 
 
------
+<br>
+<br>
 We can send document's prices to POS for payment by clicking "POS":
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/02.png">
