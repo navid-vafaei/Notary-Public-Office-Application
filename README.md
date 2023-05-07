@@ -53,19 +53,17 @@ This is the about form. You can see my name!
 <br>
 <br>
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/07.png">
-</p>
-
-<br>
-<br>
-<p align="center" width="100%">
     <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/08.png">
 </p>
 
+<br>
+<br>
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/09.png">
 </p>
 
+<br>
+<br>
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/10.png">
 </p>
