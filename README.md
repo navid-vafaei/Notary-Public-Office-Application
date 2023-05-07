@@ -6,7 +6,7 @@ Download files and add then in a new a projects. Some files like modules can be 
 
 ## Tasks
 This is the duties of software:
-1- Define and edit new document types
+1- Define and edit new document types<br>
 2- Define visible elements for each documents
 3- Define and view documents, add or remove persones related to each document, calculate prices
 4- Convert each document to other formats like doc or pdf
