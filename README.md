@@ -2,5 +2,5 @@
 
 Main page:
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/01.png">
+    <img width="70%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/01.png">
 </p>
