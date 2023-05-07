@@ -52,7 +52,7 @@ This is the about form. You can see my name!
 
 <br>
 <br>
-We can calculate documet's prices and taxes:
+We can see documet's prices and taxes:
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/navid-vafaei/Notary-Public-Office-Application/blob/main/Images/08.png">
 </p>
